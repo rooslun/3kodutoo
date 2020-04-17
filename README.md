@@ -1,4 +1,4 @@
-# 3kodutoo
+# 3kodutoo - 15 punkti
 3. kodutöö Eesrakenduste arendamises.
 
 ## Tähtaeg 02.05.2020 23:59
