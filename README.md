@@ -1,7 +1,7 @@
 # 3kodutoo
 3. kodutöö Eesrakenduste arendamises.
 
-## Tähtaeg 02.05.2018 23:59
+## Tähtaeg 02.05.2020 23:59
 
 Kujundada ja programmeerida iseseisvalt töötav kalkulaator. Võib vabalt kasutada aluseks mõnda youtube'ist leitavad õpetust: https://www.youtube.com/results?search_query=javascript+calculator+tutorial - tutorial tuleb README failis ära märkida ning tulemus peab erinema õpetusest disain osas ja mõtlema juurde ise funktsionaalsuseid (tangensid, koosiinused, siinused, astmed, ruutjuured, logaritmid, exponentsiaalid, kahendsüsteem, mällu salvestamine jne).
 
