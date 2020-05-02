@@ -11,7 +11,8 @@ Võimalik lisada komaga arve <br />
 Saab kustutada lisatud arve ühe kaupa(nupp TAGASI) ja ka terve tehe korraga (nupp KUSTUTA) <br />
 Lehele on lisatud autori nimi ja viide rakenduse repositooriumile <br />
  
-
+Õpetuseks oli Youtube video:
+https://www.youtube.com/watch?v=j59qQ7YWLxw&t=1680s
 
 ![Alt text](https://github.com/rooslun/3kodutoo/blob/master/Screenshot%202020-05-02%20at%2021.31.08.png)
 
