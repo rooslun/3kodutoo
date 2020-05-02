@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Roos-Marie kalkulaator</title>
+    <script>
+        // Function to change webpage background color
+        function changeBodyBg(color){
+            document.body.style.background = color;
+
+        }
+        
+        // Function to change heading background color
+        function changeCalcBg(color){
+            document.getElementById("output").style.background = color;
+            $('#heading').css('color', 'blue');
+        }
+
+        
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>    
+    <h1><div id="heading">Roos-Marie Kalkulaator</h1></div>
+    <p> Arvuta!</p>
+    <hr>
+</head>
+<body>
+    <div id="calculator-grid" class="calculator-grid">
+      <div id="output" class="output">
+        <div data-previous-operand class="previous-operand"></div>
+        <div data-current-operand class="current-operand"></div>
+      </div>
+      <button data-all-clear class="span-two">KUSTUTA</button>
+      <button data-delete class="span-two">TAGASI</button>
+      <button data-operation>√</button>
+      
+      <button data-number>1</button>
+      <button data-number>2</button>
+      <button data-number>3</button>
+      <button data-operation>x</button>
+      <button data-operation>÷</button>
+      <button data-number>4</button>
+      <button data-number>5</button>
+      <button data-number>6</button>
+      <button data-operation>+</button>
+      <button data-operation>π</button>
+      <button data-number>7</button>
+      <button data-number>8</button>
+      <button data-number>9</button>
+      <button data-operation>-</button>
+      <button data-operation>x²</button>
+      <button empty></button>
+      <button data-number>0</button>
+      <button data-operation>e</button>
+      <button data-number>.</button>
+      <button data-equals>=</button>
+    </div>
+
+
+<section id = "sec1">
+<div>
+    <label>Muuda rakenduse tausta režiimi</label>
+    <button type="button" onclick="changeBodyBg('midnightblue');" class="sec1">öö-režiim</button>
+    <button type="button" onclick="changeBodyBg('white');" class="sec1">päeva-režiim</button>
+    <button type="button" onclick="changeBodyBg('lightblue');" class="sec1">Tagasi originaalvärvi juurde</button>
+</div>
+
+<br>
+<div>
+    <label>Muuda kalkulaatori režiimi</label>
+    <button type="button" onclick="changeCalcBg('black');" class="sec1">öö-režiim</button>
+    <button type="button" onclick="changeCalcBg('white');"  class="sec1"> päeva-režiim</button>
+    <button type="button" onclick="changeCalcBg('aliceblue');"  class="sec1">Tagasi originaalvärvi juurde</button>
+</div>
+</section>
+<footer>
+        <p>
+            <br>
+          Roos-Marie Lunden.
+          <a href="https://github.com/rooslun/3kodutoo" target="_blank"
+            >Githubi repositoorium</a
+          >
+        </p>
+      </footer>
+
+</body>
+</html>
