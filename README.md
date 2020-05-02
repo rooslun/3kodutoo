@@ -1,16 +1,18 @@
-# 3kodutoo - 15 punkti
-3. kodutöö Eesrakenduste arendamises.
 
-## Tähtaeg 02.05.2020 23:59
+# Kolmas kodutöö
 
-Kujundada ja programmeerida iseseisvalt töötav kalkulaator. Võib vabalt kasutada aluseks mõnda youtube'ist leitavad õpetust: https://www.youtube.com/results?search_query=javascript+calculator+tutorial - tutorial tuleb README failis ära märkida ning tulemus peab erinema õpetusest disain osas ja mõtlema juurde ise funktsionaalsuseid (tangensid, koosiinused, siinused, astmed, ruutjuured, logaritmid, exponentsiaalid, kahendsüsteem, mällu salvestamine jne).
+## Roos-Marie Lunden
 
-## Nõuded
+### 
+Saab vahetada rakenduse taustavärvi, panna kas öö- või päeva reziim
+Saab vahetada kalkulaatori värvi, panna kas öö- või päeva reziim
+Saab liita, lahutada, korrutada, jagada, arvutada ruutjuurt, olemas Pii ja Euleri arv, saab astendada
+Võimalik lisada komaga arve
+Saab kustutada lisatud arve ühe kaupa(nupp TAGASI) ja ka terve tehe korraga (nupp KUSTUTA)
+Lehele on lisatud autori nimi ja viide rakenduse repositooriumile
 
-1. Veebirakendus töötab.
-1. Kalkulaatoril on öö- ja päevarežiim. 
-1. Kui kasutatud on mõnda õpetust, siis see on README-s ära märgitud ning lisatud sinna ise vähemalt 3 kalkuleerimisfunktsionaalsust
-1. Lisatud on ajaloo funktsionaalsus - näidatakse varasemalt tehtud arvutusi (sama sessiooni jooksul). 
-1. Autori ees- ja perenimi on lehel välja toodud
-1. Lehel on viide rakenduse repositooriumile
-1. `README.md` failis on välja toodud autori nimi, ekraanipilt rakendusest ja kirjeldatud funktsionaalsus
+
+
+![Alt text](https://github.com/rooslun/3kodutoo/blob/master/Screenshot%202020-05-02%20at%2021.31.08.png)
+
+![Alt text](https://github.com/rooslun/3kodutoo/blob/master/Screenshot%202020-05-02%20at%2021.27.28.png)
